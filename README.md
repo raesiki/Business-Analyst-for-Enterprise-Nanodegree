@@ -2,7 +2,7 @@
 This repository contains projects for Udacity's [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/business-analyst-nanodegree--nd008) - learn to analyze data, create dashboards, and build predictive models. 
 Co-created by [Alteryx](https://www.alteryx.com/) and [Tableau](https://www.tableau.com/).
 
-* Copyright claim: to avoid plagiarism concerns, [for the submitted projects please click here for reviewing](http://www.helloxueliu.me/band/). The pw should have been sent to related parties up front.
+* Copyright claim: due to plagiarism concerns, [for the submitted projects please click here for reviewing](http://www.helloxueliu.me/band/). The pw should have been sent to related parties up front.
 
 * For Mac Users: if you are operating on a MacOS and have to install Alteryx, besides installing a virtual environment on your desktop, you can also build a VM on cloud services as an alternative. Please click here for a detailed [settings](http://www.helloxueliu.me/wp-content/uploads/2018/04/2.-Cloud-VM-.png).
 
